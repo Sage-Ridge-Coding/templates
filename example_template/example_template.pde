@@ -27,4 +27,5 @@ void draw(){
   
 }
 
-
+// Functions
+// Add your own functions down here.
